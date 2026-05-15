@@ -1,2 +1,6 @@
 La vida de Brian
+<<<<<<< HEAD
 El Patito Feo
+=======
+El sentido de la vida
+>>>>>>> dc85df3 (Añadida pelicula sentido de la vida)
